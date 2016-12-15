@@ -1,0 +1,92 @@
+gazevedo@UBUNTU-Virtual:~/PUC/ANALNUM/Trabalho_FINAL$ ./run
+Theta: 1.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0016 - Erro:0.004467 - NumPassos:20015
+  RK5 - Esperado:2.0061 - Encontrado:1.9950 - Erro:0.011067 - NumPassos:202
+Theta: 4.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0039 - Erro:0.002167 - NumPassos:20038
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 7.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0044 - Erro:0.001667 - NumPassos:20043
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 10.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0047 - Erro:0.001367 - NumPassos:20046
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 13.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0049 - Erro:0.001167 - NumPassos:20048
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 16.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:20049
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 19.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0051 - Erro:0.000967 - NumPassos:20050
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 22.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0052 - Erro:0.000867 - NumPassos:20051
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 25.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0052 - Erro:0.000867 - NumPassos:20051
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 28.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0053 - Erro:0.000767 - NumPassos:20052
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 31.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0053 - Erro:0.000767 - NumPassos:20052
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 34.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0053 - Erro:0.000767 - NumPassos:20052
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 37.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0054 - Erro:0.000667 - NumPassos:20053
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 40.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0054 - Erro:0.000667 - NumPassos:20053
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 43.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0054 - Erro:0.000667 - NumPassos:20053
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 46.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 49.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 52.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 55.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 58.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 61.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0055 - Erro:0.000567 - NumPassos:20054
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 64.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 67.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 70.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 73.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 76.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 79.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 82.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 85.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+Theta: 88.000000
+  RK4 - Esperado:2.0061 - Encontrado:2.0056 - Erro:0.000467 - NumPassos:20055
+  RK5 - Esperado:2.0061 - Encontrado:2.0050 - Erro:0.001067 - NumPassos:203
+
